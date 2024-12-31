@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Salut, je suis Syphax!<br><br>🌐 Actuellement étudiant à la Web@cadémie by Epitech, je suis passionné par le développement et je me spécialise dans le développement sur FiveM.<br><br>🚀 Mon objectif est de contribuer à des projets innovants et d’explorer de nouvelles idées dans le monde du développement.<br><br>👨‍💻 Mes domaines d’expertise incluent le développement web, les applications FiveM, et j’aime explorer de nouvelles technologies pour créer des expériences uniques.<br><br>🔗 N’hésitez pas à jeter un coup d’œil à mes projets ci-dessous et à me contacter pour toute collaboration ou idée intéressante!
+👋 Salut, je suis Syphax!<br><br>🌐 Actuellement étudiant à la Web@cadémie by Epitech, je suis passionné par le développement et je me spécialise dans le développement sur FiveM.<br><br>🚀 Mon objectif est de contribuer à des projets innovants et d’explorer de nouvelles idées dans le monde du développement.<br><br>👨‍💻 Mes domaines d’expertise incluent le développement web, les applications FiveM et web en react, et j’aime explorer de nouvelles technologies pour créer des expériences uniques.<br><br>🔗 N’hésitez pas à jeter un coup d’œil à mes projets ci-dessous et à me contacter pour toute collaboration ou idée intéressante!
 
 
 ## 🌐 Socials:
